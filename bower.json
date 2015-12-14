@@ -1,0 +1,11 @@
+{
+  "name": "suggestions-jquery",
+  "description": "DaData.ru Suggestions jQuery plugin",
+  "main": ["dist/js/jquery.suggestions.js", "dist/js/jquery.suggestions.min.js", "dist/css/suggestions.css"],
+  "license": "MIT",
+  "keywords": [
+    "dadata"
+  ],
+  "homepage": "https://github.com/costaprofunda/suggestions-jquery",
+  "private": true
+}
