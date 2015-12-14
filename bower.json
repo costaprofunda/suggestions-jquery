@@ -2,6 +2,11 @@
   "name": "suggestions-jquery",
   "description": "DaData.ru Suggestions jQuery plugin",
   "main": ["dist/js/jquery.suggestions.js", "dist/js/jquery.suggestions.min.js", "dist/css/suggestions.css"],
+  "ignore": [
+    "**/.*",
+    "src",
+    "test"
+  ],
   "license": "MIT",
   "keywords": [
     "dadata"
